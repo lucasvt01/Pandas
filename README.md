@@ -10,6 +10,7 @@ For start the pandas put in the terminal or prompt (LINUX, MacOS)
 ```bash
 jupyter-lab or jupyter lab
 ```
+In this project we will have a small example of data manipulation and visualization
 
 
 ## Contributing
